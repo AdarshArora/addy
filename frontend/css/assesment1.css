@@ -1,0 +1,30 @@
+h2{
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+td{
+  background-color: black;
+  height: 300px;
+  width: 100px;
+  border:5px solid white;
+}
+table{
+  margin:auto;
+}
+
+#one{
+  background-color: #D4E09B;
+}
+#two{
+  background-color: #f6f4d2;
+}
+#three{
+  background-color: #cbdfbd;
+}
+#four{
+  background-color: #f19c79;
+}
+#five{
+  background-color: #a44a3f;
+}
